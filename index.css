@@ -1,0 +1,52 @@
+.font-astig{
+	font-family: 'Orbitron', sans-serif;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+.nav-bar-color{
+	background-color: #002147;
+}
+.bg-image{
+	background-image: url('img/AstignaBG.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.astignashadow{
+	box-shadow: 10px 10px lightblue;
+}
+
+.width-22{
+	width: 15rem;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  color: white;
+}
+.fa-instagram {
+  color: white;
+}
+.fa-linkedin {
+  color: white;
+}
+
+.fa:hover {
+    color: #17A2B8;
+}
